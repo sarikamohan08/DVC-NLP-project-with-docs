@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: DVC-NLP-project-with-docs
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -8,8 +8,8 @@ site_author: Sarika Mohanraj
 site_description: >-
   DESCRIPTION
 # Repository
-repo_name: sarikamohan08/REPO_NAME
-repo_url: https://github.com/sarikamohan08/REPO_NAME
+repo_name: sarikamohan08/DVC-NLP-project-with-docs
+repo_url: https://github.com/sarikamohan08/DVC-NLP-project-with-docs
 
 # Configuration
 theme:
@@ -42,7 +42,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/sarikamohan08
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/sarika mohanraj
+      link: https://www.linkedin.com/in/sarika-mohanraj-5160131bb/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/sarikamohan08/
 
