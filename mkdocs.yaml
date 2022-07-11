@@ -43,8 +43,6 @@ extra:
       link: https://twitter.com/sarikamohan08
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/sarika-mohanraj-5160131bb/
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/sarikamohan08/
 
 extra_javascript:
   - javascripts/mathjax.js
