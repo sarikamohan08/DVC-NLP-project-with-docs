@@ -20,6 +20,6 @@ plots:
   ROC: roc.json
 
 source_data:
-  URL: 
+  URL: https://github.com/sarikamohan08/DVC-NLP-project-with-docs/tree/main/data/data.xml
   data_dir: data
   data_file: data.xml
