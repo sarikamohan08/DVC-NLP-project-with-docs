@@ -2,7 +2,7 @@
 
 artifacts:
   ARTIFACTS_DIR: artifacts
-  PREPARE_DATA: prepared
+  PREPARED_DATA: prepared
   TRAIN_DATA: train.tsv
   TEST_DATA: test.tsv
   FEATURIZED_DATA: features
@@ -20,6 +20,5 @@ plots:
   ROC: roc.json
 
 source_data:
-  URL: https://github.com/sarikamohan08/DVC-NLP-project-with-docs/tree/main/data/data.xml
   data_dir: data
   data_file: data.xml
